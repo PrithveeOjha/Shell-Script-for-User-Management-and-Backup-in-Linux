@@ -1,7 +1,3 @@
-Here's a simple and proper step-by-step execution and code explanation document suitable for a GitHub README file for Project 1: "Shell Script for User Management and Backup in Linux."
-
-* * * * *
-
 Shell Script for User Management and Backup in Linux
 ==================================================================
 

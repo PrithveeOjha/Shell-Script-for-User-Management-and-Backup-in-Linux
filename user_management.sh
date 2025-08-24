@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # This is a simple shell script for user management and backup in Linux.
-# Project 1 for absolute beginners.
-
 # --- Functions ---
 
 # Function to add a new user
